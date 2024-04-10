@@ -1,0 +1,3 @@
+C:/Users/lucab/CLionProjects/CPP_Training_zone_CS202/cmake-build-debug/CMakeFiles/CPP_Training_zone_CS202.dir
+C:/Users/lucab/CLionProjects/CPP_Training_zone_CS202/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lucab/CLionProjects/CPP_Training_zone_CS202/cmake-build-debug/CMakeFiles/rebuild_cache.dir
